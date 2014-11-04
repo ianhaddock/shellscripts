@@ -42,7 +42,7 @@ while [ $count -le 24 ]; do #24
 	printf  "." | tee -a $LOGS;
 	sleep 600
 	printf  "." | tee -a $LOGS;
-	sleep 600 #600
+	sleep 480
 	echo "." | tee -a $LOGS;
 	echo " " >> $LOGS;
 	echo " " >> $LOGS;
