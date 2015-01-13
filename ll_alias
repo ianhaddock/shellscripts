@@ -1,0 +1,1 @@
+echo "alias ll='ls -lG'" >> ~/.bash_profile
