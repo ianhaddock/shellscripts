@@ -15,3 +15,4 @@ Putting together any of the old scripts I find lying about for future reference.
 * storageDataRateTest.sh --   Updated to run every 20 minutes
 * telnetGroupTest.sh    --    Create telnetGroupTest.sh
 * weekly_update.sh -- Rename weekly_update to weekly_update.sh  
+* DMR_NodeRenderDCP.sh -- Convert raw image to j2k and wrap for DCP (wont work on its own, has site specific requirements)
